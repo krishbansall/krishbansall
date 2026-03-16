@@ -1,9 +1,9 @@
 
 <div align="center">
   
-# 👋 Hey! I'm [YOUR FULL NAME]
+# 👋 Hey! I'm Krish Bansal
 
-### [YEAR]-Year Student | [SPECIALIZATION] • Passionate about [PRIMARY_INTEREST]
+### 2nd-Year Student | CSE • Passionate about Web Development 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
 [![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
@@ -13,17 +13,12 @@
 ---
 
 ### 🎓 About Me
-- 🏫 Studying **[DEGREE]** at **[COLLEGE NAME]**, [CITY], [COUNTRY]
-- 🎯 Specializing in **[YOUR FOCUS AREA]** & **[SECONDARY_FOCUS]**
-- 💼 Currently **[Interning at COMPANY / Working on PROJECT / Open to Opportunities]**
-- 🚀 Passionate about **[YOUR_PASSION]**
-- 🌍 Based in **[LOCATION]**
+- 🏫 Studying **Btech** at **ABES Engineering College**, Ghaziabad , India
+- 🎯 Specializing in **Web Development** & **Startups**
+- 💼 Currently **Open to Opportunities**
 
 ---
 
-### 🌱 Currently Learning
-**[TECHNOLOGY 1]** • **[TECHNOLOGY 2]** • **[TECHNOLOGY 3]** • **[TECHNOLOGY 4]**
----
 
 ### 💻 Tech Skills
 
