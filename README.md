@@ -5,8 +5,8 @@
 
 ### 2nd-Year Student | CSE • Passionate about Web Development 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=[krishbansall]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/krishbansall)
-[![GitHub followers](https://img.shields.io/github/followers/[krishbansall]?style=flat-square&logo=github)](https://github.com/krishbansall)
+[![Profile Views](https://komarev.com/ghpvc/?username=krishbansall&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/krishbansall)
+[![GitHub followers](https://img.shields.io/github/followers/krishbansall?style=flat-square&logo=github)](https://github.com/krishbansall)
 
 </div>
 
@@ -97,11 +97,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[krishbansall]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishbansall&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[krishbansall]&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishbansall&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[krishbansall]&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishbansall&theme=tokyonight)
 
 </div>
 
