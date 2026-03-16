@@ -5,8 +5,8 @@
 
 ### 2nd-Year Student | CSE • Passionate about Web Development 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/krishbansall)
-[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=flat-square&logo=github)](https://github.com/krishbansall)
+[![Profile Views](https://komarev.com/ghpvc/?username=[krishbansall]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/krishbansall)
+[![GitHub followers](https://img.shields.io/github/followers/[krishbansall]?style=flat-square&logo=github)](https://github.com/krishbansall)
 
 </div>
 
