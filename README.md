@@ -5,8 +5,8 @@
 
 ### 2nd-Year Student | CSE • Passionate about Web Development 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
-[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/krishbansall)
+[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=flat-square&logo=github)](https://github.com/krishbansall)
 
 </div>
 
@@ -74,39 +74,22 @@
 ### 📫 Get In Touch
 | Platform | Link |
 |----------|------|
-| **Email** | [YOUR.EMAIL@example.com](mailto:YOUR.EMAIL@example.com) |
-| **Portfolio** | [YOUR_PORTFOLIO_LINK](https://yourportfolio.com) |
-| **Discord** | YOUR_DISCORD_TAG |
+| **Email** | [krishbansal9876@gmail.com](mailto:YOUR.EMAIL@example.com) |
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
-  </a>
-  <a href="https://x.com/[YOUR_TWITTER_HANDLE]" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
-  </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]" target="blank">
+  <a href="https://instagram.com/krishhbansalll" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]" target="blank">
+  <a href="https://github.com/krishbansall" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="35" />
   </a>
 </p>
 
 ---
 
-### 🎯 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[PROJECT 1 NAME]** | [Brief description of what it does] | ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square) |
-| **[PROJECT 2 NAME]** | [Brief description of what it does] | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square) |
-| **[PROJECT 3 NAME]** | [Brief description of what it does] | ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=flat-square) |
-
-➡️ [View all projects →](https://github.com/[YOUR_GITHUB_USERNAME]?tab=repositories)
 
 ---
 
