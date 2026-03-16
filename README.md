@@ -97,28 +97,21 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[krishbansall]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[krishbansall]&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[krishbansall]&theme=tokyonight)
 
 </div>
 
 ---
 
-### 🏆 Achievements & Highlights
-- 🎖️ **[ACHIEVEMENT 1]** - [Description/Year]
-- 🎖️ **[ACHIEVEMENT 2]** - [Description/Year]
-- 🎖️ **[ACHIEVEMENT 3]** - [Description/Year]
-- 📜 **Certifications**: [LIST YOUR CERTIFICATIONS]
-
 ---
 
 ### ⚡ Fun Facts About Me
-- 🎮 I love **[HOBBY 1]** and **[HOBBY 2]** in my free time
-- 🎓 Fun fact: **[ONE INTERESTING THING ABOUT YOU]**
-- 🎵 Currently vibing to: **[MUSIC GENRE/ARTIST]**
+- 🎮 I love **Reading books** and **Playing cricket** in my free time
+- 🎵 Currently vibing to: **Bairan**
 - ☕ Coffee enthusiast starting every coding session with a ☕
 
 ---
@@ -134,5 +127,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[krishbansall]&theme=react-dark" alt="activity graph" />
 </p>
